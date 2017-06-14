@@ -1,5 +1,6 @@
 # DesignPatterns
-In this repo, you will find notes and sample code I created while working to understand and memorize design patterns.
+In this repo, you will find notes and sample code I created while working to deepen my understanding of design patterns.
+It's one thing to know about them, but another to really understand them in a very deep way.
 
 ### Learning Process
 
